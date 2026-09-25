@@ -1,0 +1,27 @@
+{
+  "id": "./",
+  "name": "怪獣群島 WILD PACT",
+  "short_name": "怪獣群島",
+  "description": "その絆で、侵略に抗え。怪獣の群れを率いて戦うオートバトラー。",
+  "lang": "ja",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0b2023",
+  "theme_color": "#0b2023",
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
